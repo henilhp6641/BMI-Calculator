@@ -1,6 +1,12 @@
-# bmi
+# BMI(Body mass index) Calculater
 
-A new Flutter application.
+A BMI Flutter application which is help to find your Body mass index using height,weight.
+
+# What I Learned
+* Dart Language
+* Flutter
+* Maths Equation functionality in flutter
+* UI/UX Design
 
 ## Getting Started
 
@@ -14,3 +20,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
